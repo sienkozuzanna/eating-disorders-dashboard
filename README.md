@@ -12,11 +12,11 @@ The dashboard serves as a poster illustrating the prevalence of eating disorders
 - Educational insights: The poster aims to provide educational insights into the prevalence and impact of eating disorders globally, challenging misconceptions and offering informative content.
 
 ## Data Sources
-- The data used in this project was sourced from https://ourworldindata.org/grapher/eating-disorders-prevalence-by-age.
-- Additional information and statistics were gathered from reputable sources such as the National Eating Disorders Association (NEDA) and the Butterfly Foundation.
-
+- The data was sourced from epidemiological dataset informing GBD 2019 for anorexia nervosa and bulimia nervosa, 2 published systematic reviews that focused on binge eating disorder and/or OSFED and also some studies that were provided by eating disorders experts.
+- Additional information and statistics were gathered from https://ourworldindata.org/grapher/eating-disorders-prevalence-by-age.
+  
 ## Support and Resources
 If you or someone you know is struggling with an eating disorder, seek support from local organizations and professionals dedicated to helping individuals facing these challenges. Remember, you are not alone, and there are resources available to support you on your journey to recovery.
 
 ## Acknowledgments
-Special thanks to [list any contributors, organizations, or resources that assisted in the development of this project].
+We would like to extend our special thanks to Dr. Damian Santamauro, Senior Research Fellow in the Epidemiology and Burden of Disease Research Stream at the Queensland Center for Mental Health Research, for providing us with the datasets used in the meta-analysis.
