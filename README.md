@@ -22,6 +22,6 @@ If you or someone you know is struggling with an eating disorder, seek support f
 We would like to extend our special thanks to Dr. Damian Santamauro, Senior Research Fellow in the Epidemiology and Burden of Disease Research Stream at the Queensland Center for Mental Health Research, for providing us with the datasets used in the meta-analysis.
 
 ### Collaborators
-- @sienkozuzanna
-- @basiaseweryn
-- @katarzynarogalska
+- [Zuzanna Sieńko](https://github.com/sienkozuzanna)
+- [Barbara Seweryn](https://github.com/basiaseweryn)
+- [Katarzyna Rogalska](https://github.com/katarzynarogalska)
